@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Market-wide restaurant data for Cedar Park in the Lone Star State. Covers the local dining market filtered by the Restaurants category group with ratings, review trends, competitive rankings, and market positioning data. Refreshed weekly.",
+  "config_name": "All Restaurants in Cedar Park, Texas, US",
+  "export_job_id": "55c18dbe-ae8a-4c33-9c74-8d91992e3197",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 360843,
+  "location_name": "Cedar Park",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-cedar-park-texas-us-sample-360843",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/360843/beamstation_360843_restaurants-us-tx_SAMPLE_DIST.csv",
+  "sample_pct": 9.77,
+  "sample_records": 25,
+  "sample_sha256": "c80629cccf69b22625eb55b543a4e00642cb19f1b03ac0af00298ee24ad7cc3b",
+  "sample_size_bytes": 107061,
+  "total_records": 256,
+  "updated_at": "2026-04-09T13:42:16.169179+00:00"
+}
