@@ -1,6 +1,6 @@
 # All Restaurants in Cedar Park, Texas, US
 
-> Free BeamStation sample export with 23 rows and masked direct-contact fields.
+> Free BeamStation sample export with 21 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `360843` |
 | Location | Cedar Park |
 | Category | Restaurants |
-| Full dataset size | 235 records |
-| Free sample size | 23 records (9.79%) |
-| Last export | 2026-04-16T14:06:58.477670+00:00 |
+| Full dataset size | 217 records |
+| Free sample size | 21 records (9.68%) |
+| Last export | 2026-04-23T12:45:26.300910+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-cedar-park-texas-us-sample-360843/releases/download/sample-latest/beamstation_360843_restaurants-us-tx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
