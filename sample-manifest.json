@@ -1,12 +1,12 @@
 {
-  "export_job_id": "b80310a1-4076-4b09-982e-9a5fef4a5c3c",
+  "export_job_id": "3a2f331e-b6d6-4eae-8b30-de418b885467",
   "id_short": 360843,
-  "published_at": "2026-04-19T07:59:08Z",
+  "published_at": "2026-04-23T19:17:06Z",
   "repo_name": "all-restaurants-in-cedar-park-texas-us-sample-360843",
   "sample_asset_name": "beamstation_360843_restaurants-us-tx_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/360843/beamstation_360843_restaurants-us-tx_SAMPLE_DIST.csv",
-  "sample_records": 23,
-  "sample_sha256": "c1cf62fd10238c214a594595673482cc553ec345f17353eccc645be36b6c6447",
-  "sample_size_bytes": 98754,
-  "total_records": 235
+  "sample_records": 21,
+  "sample_sha256": "717205ccf7f67cea4e435bdc4a14245044bd3ca8dd39b0dff037d2e943b319ea",
+  "sample_size_bytes": 86215,
+  "total_records": 217
 }
